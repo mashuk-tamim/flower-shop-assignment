@@ -25,7 +25,7 @@
     font-weight: 800;
 }
 
-.color-text{
+.color-text {
     color: #E55473;
 }
 
@@ -216,15 +216,15 @@
 }
 
 /* instagram section starts */
-.insta{
+.insta {
     margin-top: 150px;
 }
 
-.insta-container{
+.insta-container {
     text-align: center;
 }
 
-.insta-photo-section{
+.insta-photo-section {
     display: flex;
     justify-content: space-between;
     width: 900px;
@@ -232,6 +232,44 @@
     margin: auto;
 }
 
-.insta-photos{
+.insta-photos {
     width: 215px;
+}
+
+/* subscription section starts */
+.subscribe{
+    margin-top: 150px;
+}
+
+.subscribe-container {
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    width: 900px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border: 2px solid; */
+}
+
+.form{
+    display: flex;
+    align-items: center;
+    /* border: 2px solid; */
+    justify-content: space-between;
+}
+
+#email {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 13px;
+    border: 0px;
+    border-radius: 8px;
+    padding-right: 235px;
+
 }
