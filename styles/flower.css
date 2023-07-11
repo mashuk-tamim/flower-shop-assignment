@@ -127,7 +127,7 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    margin: 20px 0px;
+    margin: 5px 0px 20px;
     /* border: 2px solid; */
 }
 
@@ -411,15 +411,29 @@
     font-size: 48px;
     font-weight: 800;
 }
+.footer-description1 {
+    color: rgba(255, 255, 255, 0.90);
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 600px;
+}
 
-.footer-description {
+.footer-description2 {
     color: rgba(255, 255, 255, 0.90);
     font-family: Lato;
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
     width: 600px;
-    margin: 30px 0px;
+    margin: 30px 0px 0px;
+}
+
+.social-links-img {
+    margin-right: 10px;
+    width: 25px;
+    margin-bottom: 30px;
 }
 
 .copyright {
