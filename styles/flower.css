@@ -80,16 +80,11 @@
 }
 
 .src-button {
-    /* padding: 2px;
-    padding-left: 3px;
-    margin-left: 0px;
-    /* border: none; */
     border-radius: 5px;
     background-color: #c597a0;
     border: none;
     background: transparent;
     margin: 0;
-
     color: inherit;
     border: 1px solid transparent;
     border-radius: inherit;
@@ -312,12 +307,7 @@
 .arrival-photos {
     display: flex;
     justify-content: space-between;
-    /* border: 2px solid; */
-}
-
-.arrival-photos{
-    display: flex;
-    justify-content: space-between;
+    height: 400px;
 }
 
 .arrival-image1, .arrival-image2, .arrival-image3 {
